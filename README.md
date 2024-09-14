@@ -7,8 +7,8 @@ Motivated and ambitious fresher with an MCA degree, passionate about web develop
 ## 🙋‍♂️ About Me
 I am a recent MCA graduate with a passion for software development, especially web development. During my academic years, I have worked on various web-based projects using modern technologies like React, Tailwind CSS, Firebase, and Supabase. I am eager to learn, grow, and contribute as a developer.
 
+![Code and Coffee](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 
