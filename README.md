@@ -74,7 +74,3 @@ A personal portfolio showcasing my skills, projects, and experience, designed wi
 - Sketching  
 - Coding  
 
-## 📊 GitHub Stats
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryakantprasad07&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakantprasad07&layout=compact&theme=radical)](https://github.com/suryakantprasad07)
