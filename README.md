@@ -1,81 +1,11 @@
-# Hi, I'm Surya Kant Prasad 👋  
-**Software Developer**
+<h1 align="center">Hi 👋, I'm Surya Kant Prasad</h1>
+<h3 align="center">A passionate frontend deveSoftware Developer Motivated and ambitious fresher with an MCA degree, passionate about web development and software development. Looking to leverage my skills and experiences to contribute to a dynamic organization.loper from India</h3>
 
-Motivated and ambitious fresher with an MCA degree, passionate about web development and software development. Looking to leverage my skills and experiences to contribute to a dynamic organization.  
-📧 Email: suryadt537@gmail.com | 📍 Ranchi, India
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/surya-kant-prasad-970a77262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-kant-prasad-970a77262/" height="30" width="40" /></a>
+<a href="https://instagram.com/@suryasanju07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@suryasanju07" height="30" width="40" /></a>
+</p>
 
-## 🙋‍♂️ About Me
-I am a recent MCA graduate with a passion for software development, especially web development. During my academic years, I have worked on various web-based projects using modern technologies like React, Tailwind CSS, Firebase, and Supabase. I am eager to learn, grow, and contribute as a developer.
-
-![Code and Coffee](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
-
-
-
-
-- 🌱 I’m currently improving my skills in **React.js** and **Supabase**
-- 🎯 My career goal is to become a proficient Full Stack Developer
-- 📫 How to reach me: [suryadt537@gmail.com](mailto:suryadt537@gmail.com)
-
-## 💻 Skills
-- **Programming Languages:** C, C++, Python
-- **Frameworks & Libraries:** React.js, PHP (Laravel), Tailwind CSS, Bootstrap
-- **Databases:** MySQL, PostgreSQL, Firebase
-- **Web Development:** HTML5, CSS, JavaScript
-- **Version Control:** Git
-
-## 🚀 Projects
-
-### [Scrap Buy and Sell Online](https://rescrap07.netlify.app/)
-**(React, Tailwind CSS, Firebase)**  
-A platform for buying and selling recyclable materials, secured with Firebase Authentication and optimized for seamless interaction with Firebase Realtime Database.  
-
-### [Foodie Zone](https://foodie-zones.netlify.app/)
-**(React, Firebase, Tailwind CSS)**  
-A sleek restaurant website UI for online ordering and browsing menus.
-
-### [EasyJobs - Job Portal Website](https://easyjobs07.netlify.app/)
-**(React, Supabase)**  
-A job portal that connects job seekers and employers efficiently, with secure data handling and a user-friendly interface.
-
-### [Portfolio](https://surya-portfolio-07.netlify.app/)
-**(React, Tailwind CSS)**  
-A personal portfolio showcasing my skills, projects, and experience, designed with a modern, clean UI and responsiveness across devices.
-
-## 🎓 Education
-
-- **Master of Computer Application (MCA)**  
-  Ranchi University, Ranchi (2021 - 2023) | **76.25%**
-  
-- **Bachelor of Computer Application (BCA)**  
-  Yogoda Satsanga Mahavidyalaya, Ranchi (2018 - 2021) | **79.62%**
-
-- **Higher Secondary (12th)**  
-  Saraswati Shishu Vidya Mandir, Ranchi (2016 - 2018) | **55.8%**
-
-- **Matriculation (10th)**  
-  Prabhat Tara High School, Dhurwa (2015 - 2016) | **84.2%**
-
-## 💼 Work Experience
-
-**Intern - NSL Technologies, Ranchi**  
-*January 2023 - October 2023*  
-- Gained hands-on experience in project management, quality assurance, and software development.  
-- Collaborated with team members to deliver high-quality projects.  
-
-## 📜 Certifications
-
-- **PHP Framework (Laravel)** | April 2023 - July 2023  
-- **AWS APAC Solutions Architecture Virtual Experience** | February 2024  
-- **Cognizant Artificial Intelligence Job Simulation** | February 2024  
-- **Accenture Developer Job Simulation** | February 2024  
-
-## 🌐 Languages
-- **English:** Full Professional Proficiency  
-- **Hindi:** Full Professional Proficiency  
-
-## 🎨 Interests
-- Web Development  
-- Photography  
-- Sketching  
-- Coding  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
