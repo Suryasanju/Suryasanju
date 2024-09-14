@@ -7,6 +7,11 @@ Motivated and ambitious fresher with an MCA degree, passionate about web develop
 ## 🙋‍♂️ About Me
 I am a recent MCA graduate with a passion for software development, especially web development. During my academic years, I have worked on various web-based projects using modern technologies like React, Tailwind CSS, Firebase, and Supabase. I am eager to learn, grow, and contribute as a developer.
 
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+
 - 🌱 I’m currently improving my skills in **React.js** and **Supabase**
 - 🎯 My career goal is to become a proficient Full Stack Developer
 - 📫 How to reach me: [suryadt537@gmail.com](mailto:suryadt537@gmail.com)
